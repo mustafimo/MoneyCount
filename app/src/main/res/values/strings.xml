@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoneyCount</string>
+    <string name="title">You Have</string>
+    <string name="money_value">$0</string>
+    <string name="button">MoneyCount</string>
+    <string name="show_tag">Show Tag</string>
+    <string name="X">+</string>
+</resources>
